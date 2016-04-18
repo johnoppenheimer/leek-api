@@ -1,0 +1,27 @@
+{
+  "name": "leek-api",
+  "version": "1.0.0",
+  "description": "API wrapper for leekwars",
+  "main": "lib/leekapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnoppenheimer/leek-api.git"
+  },
+  "keywords": [
+    "node",
+    "leekwars",
+    "api"
+  ],
+  "author": "Maxime <Oppenheimer>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnoppenheimer/leek-api/issues"
+  },
+  "homepage": "https://github.com/johnoppenheimer/leek-api#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
