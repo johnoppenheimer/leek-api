@@ -1,5 +1,5 @@
 # leek-api
-This is a javscript wrapper for the LeekWars game API [http://leekwars.com](http://leekwars.com).
+This is a javascript wrapper for the [LeekWars](http://leekwars.com) game API.
 
 [![NPM Version][npm-image]][npm-url]
 
